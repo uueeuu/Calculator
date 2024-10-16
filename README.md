@@ -1,2 +1,6 @@
 # Calculator
-Изучаю гит лол, калькулятор в ооп на пайтоне в два файла
+please install python3+
+'''
+apt install python3
+
+'''
